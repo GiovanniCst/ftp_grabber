@@ -1,0 +1,105 @@
+2019-04-30 23:51:31.976456: Link is up, all seems fine 
+2019-04-30 23:51:31.976456: Successfully connected to ftp.gamba1918.com
+2019-04-30 23:51:31.976456: 2019-04-30_pautass.xls was successfully obtained, downloaded and archived, all looks fine. 
+2019-04-30 23:51:31.976456: 2019-04-30_pautass.xls was successfully copied into C:\TeamSystem Software\Gamma Enterprise\IMPORTEXPORT\pautass\2019-04-30
+2019-04-30 23:51:31.976456: END OF THIS SESSION LOG ---------------
+
+2019-04-30 23:54:08.865878: Link is up, all seems fine 
+2019-04-30 23:54:08.865878: Successfully connected to ftp.gamba1918.com
+2019-04-30 23:54:08.865878: Data file not available on the Ftp server.
+2019-04-30 23:54:08.865878: --------------- [END OF THIS SESSION LOG] ---------------
+
+2019-05-01 00:16:18.432277: Link is up, all seems fine 
+2019-05-01 00:16:18.432277: Successfully connected to ftp.gamba1918.com
+2019-05-01 00:16:18.432277: Data file not available on the Ftp server.
+2019-05-01 00:16:18.432277: --------------- [END OF THIS SESSION LOG] ---------------
+
+2019-05-01 00:17:50.835065: Link is up, all seems fine 
+2019-05-01 00:17:50.835065: Successfully connected to ftp.gamba1918.com
+2019-05-01 00:17:50.835065: Data file not available on the Ftp server.
+2019-05-01 00:17:50.835065: --------------- [END OF THIS SESSION LOG] ---------------
+
+2019-05-02 08:44:35.456380: Link is up, all seems fine 
+2019-05-02 08:44:35.456380: Successfully connected to ftp.gamba1918.com
+2019-05-02 08:44:35.456380: Data file not available on the Ftp server.
+2019-05-02 08:44:35.456380: --------------- [END OF THIS SESSION LOG] ---------------
+
+2019-05-02 09:58:47.674835: Link is up, all seems fine 
+2019-05-02 09:58:47.674835: Successfully connected to ftp.gamba1918.com
+2019-05-02 09:58:47.674835: Data file not available on the Ftp server.
+2019-05-02 09:58:47.674835: --------------- [END OF THIS SESSION LOG] ---------------
+
+2019-05-02 10:08:21.563180: Link is up, all seems fine 
+2019-05-02 10:08:21.563180: Successfully connected to ftp.gamba1918.com
+2019-05-02 10:08:21.563180: Data file not available on the Ftp server.
+2019-05-02 10:08:21.563180: --------------- [END OF THIS SESSION LOG] ---------------
+
+2019-05-02 10:12:25.819451: Link is up, all seems fine 
+2019-05-02 10:12:25.819451: Successfully connected to ftp.gamba1918.com
+2019-05-02 10:12:25.819451: Data file not available on the Ftp server.
+2019-05-02 10:12:25.819451: --------------- [END OF THIS SESSION LOG] ---------------
+
+2019-05-02 10:38:45.020287: Link is up, all seems fine 
+2019-05-02 10:38:45.020287: Successfully connected to ftp.gamba1918.com
+2019-05-02 10:38:45.020287: Data file not available on the Ftp server.
+2019-05-02 10:38:45.020287: --------------- [END OF THIS SESSION LOG] ---------------
+
+2019-05-02 10:42:44.825841: Link is up, all seems fine 
+2019-05-02 10:42:44.825841: Successfully connected to ftp.gamba1918.com
+2019-05-02 10:42:44.825841: 2019-05-02_pautass.xls was successfully obtained, downloaded and archived, all looks fine. 
+2019-05-02 10:42:44.825841: 2019-05-02_pautass.xls was successfully copied into C:\TeamSystem Software\Gamma Enterprise\IMPORTEXPORT\pautass\2019-05-02
+2019-05-02 10:42:44.825841: --------------- [END OF THIS SESSION LOG] ---------------
+
+2019-05-02 10:45:22.565641: Link is up, all seems fine 
+2019-05-02 10:45:22.565641: Successfully connected to ftp.gamba1918.com
+2019-05-02 10:45:22.565641: 2019-05-02_pautass.xls was successfully obtained, downloaded and archived, all looks fine. 
+2019-05-02 10:45:22.565641: 2019-05-02_pautass.xls was successfully copied into C:\TeamSystem Software\Gamma Enterprise\IMPORTEXPORT\pautass\2019-05-02
+2019-05-02 10:45:22.565641: --------------- [END OF THIS SESSION LOG] ---------------
+
+2019-05-02 11:00:25.597330: Link is up, all seems fine 
+2019-05-02 11:00:25.597330: Successfully connected to ftp.gamba1918.com
+2019-05-02 11:00:25.597330: 2019-05-02_pautass.xls was successfully obtained, downloaded and archived, all looks fine. 
+2019-05-02 11:00:25.597330: 2019-05-02_pautass.xls was successfully copied into C:\TeamSystem Software\Gamma Enterprise\IMPORTEXPORT\pautass\2019-05-02
+2019-05-02 11:00:25.597330: --------------- [END OF THIS SESSION LOG] ---------------
+
+2019-05-02 11:02:11.231170: Link is up, all seems fine 
+2019-05-02 11:02:11.231170: Successfully connected to ftp.gamba1918.com
+2019-05-02 11:02:11.231170: 2019-05-02_pautass.xls was successfully obtained, downloaded and archived, all looks fine. 
+2019-05-02 11:02:11.231170: 2019-05-02_pautass.xls was successfully copied into C:\TeamSystem Software\Gamma Enterprise\IMPORTEXPORT\pautass\2019-05-02
+2019-05-02 11:02:11.231170: --------------- [END OF THIS SESSION LOG] ---------------
+
+2019-05-02 11:03:49.820781: Link is up, all seems fine 
+2019-05-02 11:03:49.820781: Successfully connected to ftp.gamba1918.com
+2019-05-02 11:03:49.820781: 2019-05-02_pautass.xls was successfully obtained, downloaded and archived, all looks fine. 
+2019-05-02 11:03:49.820781: 2019-05-02_pautass.xls was successfully copied into C:\TeamSystem Software\Gamma Enterprise\IMPORTEXPORT\pautass\2019-05-02
+2019-05-02 11:03:49.820781: --------------- [END OF THIS SESSION LOG] ---------------
+
+2019-05-02 11:05:28.636133: Link is up, all seems fine 
+2019-05-02 11:05:28.636133: Successfully connected to ftp.gamba1918.com
+2019-05-02 11:05:28.636133: 2019-05-02_pautass.xls was successfully obtained, downloaded and archived, all looks fine. 
+2019-05-02 11:05:28.636133: 2019-05-02_pautass.xls was successfully copied into C:\TeamSystem Software\Gamma Enterprise\IMPORTEXPORT\pautass\2019-05-02
+2019-05-02 11:05:28.636133: --------------- [END OF THIS SESSION LOG] ---------------
+
+2019-05-02 11:07:33.951577: Link is up, all seems fine 
+2019-05-02 11:07:33.951577: Successfully connected to ftp.gamba1918.com
+2019-05-02 11:07:33.951577: 2019-05-02_pautass.xls was successfully obtained, downloaded and archived, all looks fine. 
+2019-05-02 11:07:33.951577: 2019-05-02_pautass.xls was successfully copied into C:\TeamSystem Software\Gamma Enterprise\IMPORTEXPORT\pautass\2019-05-02
+2019-05-02 11:07:33.951577: --------------- [END OF THIS SESSION LOG] ---------------
+
+2019-05-02 11:09:33.270827: Link is up, all seems fine 
+2019-05-02 11:09:33.270827: Successfully connected to ftp.gamba1918.com
+2019-05-02 11:09:33.270827: 2019-05-02_pautass.xls was successfully obtained, downloaded and archived, all looks fine. 
+2019-05-02 11:09:33.270827: 2019-05-02_pautass.xls was successfully copied into C:\TeamSystem Software\Gamma Enterprise\IMPORTEXPORT\pautass\2019-05-02
+2019-05-02 11:09:33.270827: --------------- [END OF THIS SESSION LOG] ---------------
+
+2019-05-02 11:22:32.185027: Link is up, all seems fine 
+2019-05-02 11:22:32.185027: Successfully connected to ftp.gamba1918.com
+2019-05-02 11:22:32.185027: 2019-05-02_pautass.xls was successfully obtained, downloaded and archived, all looks fine. 
+2019-05-02 11:22:32.185027: 2019-05-02_pautass.xls was successfully copied into C:\Trasferimenti o File\DocumentiLavanderie\pautass\2019-05-02
+2019-05-02 11:22:32.185027: --------------- [END OF THIS SESSION LOG] ---------------
+
+2019-05-02 17:31:45.616725: Link is up, all seems fine 
+2019-05-02 17:31:45.616725: Successfully connected to ftp.gamba1918.com
+2019-05-02 17:31:45.616725: Data file not available on the Ftp server.
+2019-05-02 17:31:45.616725: --------------- [END OF THIS SESSION LOG] ---------------
+
